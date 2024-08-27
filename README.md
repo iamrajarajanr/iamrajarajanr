@@ -60,7 +60,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Shri2703&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=iamrajarajanr&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 <!--   <img width=390 src="https://github-readme-Shri2703.vercel.app/api?username=Shri2703&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/> 
   <img width=325 align="center" src="https://github-readme.vercel.app/api/top-langs/?username=Shri2703&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
@@ -72,7 +72,7 @@
 <br/><br/>
 <hr />
 
- ![Poornashri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shri2703&custom_title=Poorna%20shri's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+ ![Rajarajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrajarajanr&custom_title=Rajarajan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <hr/>
   <br>
 
